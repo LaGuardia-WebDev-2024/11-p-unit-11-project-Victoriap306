@@ -5,8 +5,26 @@ html {
   background-color: white;
   padding-left: 20px;
 }
-
-/* ======================== CSS Rule #2 */
+/* ======================== CSs  
 h1 {
   font-family: "Poetsen One", sans-serif;
+}
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: navy;
+}
+
+button {
+  border-radius: 10px;
+}
+
+p {
+  font-size: 18px;
+}
+
+.title {
+  text-align: center;
 }
